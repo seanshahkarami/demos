@@ -1,5 +1,5 @@
 #
-# Mean Field XY Simulation via the Metropolis Algorithm
+# Mean Field XY Model Simulation via the Metropolis Algorithm
 #
 # Author: Sean Shahkarami <sean.shahkarami@gmail.com>
 #
