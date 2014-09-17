@@ -4,7 +4,7 @@
 # Author: Sean Shahkarami <sean.shahkarami@gmail.com>
 #
 # About: This was written for a talk with Mark Schubel and Tayyab Nawaz. It's
-# a animated demo of using the Metropolis algorithm to simulate the classical
+# an animated demo of using the Metropolis algorithm to simulate the classical
 # mean field XY model.
 #
 
