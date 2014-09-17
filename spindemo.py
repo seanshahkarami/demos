@@ -84,7 +84,7 @@ def animate(i):
 		#
 		#                    P(y) * S(y -> x)           P(y)
 		# A(x -> y) = min(1, ----------------) = min(1, ----)
-        #                    P(x) * S(x -> y)           P(x)
+		#                    P(x) * S(x -> y)           P(x)
 		#
 		# where P(E) is the Boltzmann distribution, P(E) = exp(-E / T).
 		#
