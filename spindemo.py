@@ -1,13 +1,12 @@
-#
-# Mean Field XY Model Simulation via the Metropolis Algorithm
-#
-# Author: Sean Shahkarami <sean.shahkarami@gmail.com>
-#
-# About: This was written for a talk with Mark Schubel and Tayyab Nawaz. It's
-# an animated demo of using the Metropolis algorithm to simulate the classical
-# mean field XY model.
-#
+"""
+Mean Field XY Model Simulation via the Metropolis Algorithm
 
+Author: Sean Shahkarami <sean.shahkarami@gmail.com>
+
+About: This was written for a talk with Mark Schubel and Tayyab Nawaz. It's
+an animated demo of using the Metropolis algorithm to simulate the classical
+mean field XY model.
+"""
 import numpy as np
 from numpy import pi, cos, sin, sum
 import numpy.linalg as la
