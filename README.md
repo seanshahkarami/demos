@@ -5,6 +5,10 @@ are interesting but don't really belong any particular place. Enjoy!
 
 ## Summary
 
+### mooseheart.html
+A quick attempt at writting a "screen saver" with HTML5 canvas. Open it
+and click the canvas to go fullscreen.
+
 ### reggie.*
 These are simple implementations of regular expression matchers
 based on the Regular Expression Derivatives Revisited paper.
