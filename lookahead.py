@@ -14,6 +14,7 @@ class lookahead(object):
         self.queue = []
 
     def peek(self, k):
+        assert k >= 0
         while len(self.queue) <= k:
             self.queue.append(next(self.generator))
         return self.queue[k]
