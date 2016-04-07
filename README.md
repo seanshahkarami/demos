@@ -19,3 +19,6 @@ method applied to a 2D Ising model. You can adjust the temperature of the
 given material to see how it affects the magnetization of the material.
 You can also see a clear phase transition if you lower the temperature
 below a certain level. It's written using Numpy / Scipy / Matplotlib.
+
+### tracy
+This is a very basic raytracer I scrapped together during some downtime while travelling a few years ago. (2013, I think?) I thought it'd be fun to revisit it at some point.
