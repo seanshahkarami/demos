@@ -1,0 +1,5 @@
+timestamp,node_id,subsystem,sensor,parameter,value_raw,value_hrf
+2019/02/07 15:35:40,001e0610eef4,metsense,pr103j2,temperature,679,6.3
+2019/02/07 15:35:40,001e0610eef4,metsense,tsl250rd,intensity,118,5.942
+2019/02/07 15:35:41,001e0611462f,metsense,bmp180,pressure,9935936,935.21
+2019/02/07 15:35:41,001e0611462f,metsense,htu21d,humidity,51018,91.31
